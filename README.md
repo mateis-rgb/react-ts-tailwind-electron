@@ -1,3 +1,2 @@
-# React-TS-Tailwind-Electron
-
-Base React project
+# opencore-manager
+ Application for manage Opencore PC
