@@ -1,2 +1,1 @@
-# opencore-manager
- Application for manage Opencore PC
+# React TS Tailwind Electron
